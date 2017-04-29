@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprint.Plugins", "Sprint.Plugins.csproj", "{68CED207-719E-7853-3B8A-1245E0F208A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprint", "Sprint.csproj", "{BC133A16-9192-6011-73BF-321A07FE4955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprint.Editor.Plugins", "Sprint.Editor.Plugins.csproj", "{A9F2EE4A-0941-497A-D77E-6BC32E43B5BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68CED207-719E-7853-3B8A-1245E0F208A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CED207-719E-7853-3B8A-1245E0F208A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CED207-719E-7853-3B8A-1245E0F208A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CED207-719E-7853-3B8A-1245E0F208A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC133A16-9192-6011-73BF-321A07FE4955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC133A16-9192-6011-73BF-321A07FE4955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC133A16-9192-6011-73BF-321A07FE4955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC133A16-9192-6011-73BF-321A07FE4955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F2EE4A-0941-497A-D77E-6BC32E43B5BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F2EE4A-0941-497A-D77E-6BC32E43B5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F2EE4A-0941-497A-D77E-6BC32E43B5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F2EE4A-0941-497A-D77E-6BC32E43B5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
